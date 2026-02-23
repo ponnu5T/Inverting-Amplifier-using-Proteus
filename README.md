@@ -23,7 +23,11 @@ The non-inverting terminal (+) is grounded.
 •	Pin 4 → -15V
 The input sine wave is applied through R1 and output is taken from pin 6.
 ## Circuit Diagram
+<img width="1919" height="1022" alt="Screenshot 2026-01-30 092239" src="https://github.com/user-attachments/assets/fad5244d-fd09-46c1-a617-1751449bda21" />
+
 ## Tabulation
+<img width="519" height="223" alt="image" src="https://github.com/user-attachments/assets/f68cf8ff-492d-4d4c-bdcf-be21dfac81c1" />
+
 Input Voltage (Vin)	Theoretical Gain (Av)	Theoretical Vout	Practical Vout (Proteus)
 ## Simulation Procedure (Proteus)
 1.	Open Proteus Design Suite
@@ -41,6 +45,8 @@ o	Input = 1V, 1kHz sine wave
 6.	Run simulation.
 7.	Observe input and output waveforms on CRO.
 ##  Waveform Observation
+<img width="1919" height="1018" alt="Screenshot 2026-01-23 090839" src="https://github.com/user-attachments/assets/5f484466-4914-4a39-9cfd-347980982a7a" />
+
 •	Input: Sine wave
 •	Output: Amplified sine wave
 •	Phase Shift: 180°
